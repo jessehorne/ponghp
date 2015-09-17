@@ -24,7 +24,7 @@ Be sure to set up your paths correctly.
 
 #### Using RunGame.sh
 ```
-./RunGame.sh run
+./RunGame.sh
 ```
 #### Not using RunGame.sh
 ```
