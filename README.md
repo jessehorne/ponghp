@@ -42,5 +42,5 @@ the [Show me some games](## Show me some games) section.
 
 ## IRC (#billy-php on Freenode)
 If you're having issues you don't feel belong in the issue tracker, or just want
-to chat, feel free to join #billy on Freenode. Yes, it has it's own channel. I
+to chat, feel free to join #billy-php on Freenode. Yes, it has it's own channel. I
 have faith that I am not the only person who wants to create games using PHP. ;)
