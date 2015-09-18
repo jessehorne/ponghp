@@ -1,5 +1,6 @@
-Billy
-=====
+[Billy](https://github.com/jessehorne/billy)
+============================================
+
 
 Billy is a 2D game framework written in PHP and Lua. It allows you to write 2D
 games in pure PHP. It works by sending data to a client written in Lua, which
